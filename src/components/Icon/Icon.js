@@ -1,10 +1,10 @@
 import React from "react";
 import "./Icon.css";
-import Cloudy from "../../assets/cloudy.png";
-import Rain from "../../assets/rain.png";
-import Snowing from "../../assets/snowing.png";
-import Sun from "../../assets/sun.png";
-import Thermometer from "../../assets/thermometer.png";
+import Cloudy from "../../assets/cloudy.svg";
+import Rain from "../../assets/rain.svg";
+import Snowing from "../../assets/snowing.svg";
+import Sun from "../../assets/sun.svg";
+import Thermometer from "../../assets/thermometer.svg";
 
 const Icon = (props) => {
   switch (props.icon) {
